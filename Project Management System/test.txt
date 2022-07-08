@@ -1,0 +1,11 @@
+ID 	Name 		Dept 		Salary 		Working Hours Per Month 	Tasks
+1	Ahmed		Emp : IS	2000.0		330				[** Compute Sum of two numbers, ** Compute Average of two numbers, ** Compute Multiply of two numbers]
+2	Ali		Emp : Cs	2500.0		-270				[** Compute subtraction of two numbers, ** Compute factorial of two numbers, ** Compute addition of two numbers]
+3	Mohmmed		Emp : IT	3000.0		390				0
+10	Hossam		Admin		2000.0		0				0
+
+
+
+123	Admin	Doha	CS	3	2000.0	360.0
+213	Employee	Ali	IS	3	3000.0	360.0
+321	PMLeader	Abdo	IS	3	3500.0	360.0
